@@ -49,7 +49,7 @@ class Logger:
             
 
 if __name__ == "__main__":
-    os.environ["DD_API_KEY"] = "51440a4a1d133a121691ac411cc79895"
+    os.environ["DD_API_KEY"] = ""
     os.environ["DD_SITE"] = "us5.datadoghq.com"
     os.environ["ENV"] = "DEV"
 
